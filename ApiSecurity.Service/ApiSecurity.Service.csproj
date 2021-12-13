@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Token\zu3pnptm.pn1~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiSecurity.Data\ApiSecurity.Data.csproj" />
+    <ProjectReference Include="..\ApiSecurity.Model\ApiSecurity.Model.csproj" />
+  </ItemGroup>
+
+</Project>

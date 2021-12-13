@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity\\ApiSecurity.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Data\\ApiSecurity.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Data\\ApiSecurity.Data.csproj",
+        "projectName": "ApiSecurity.Data",
+        "projectPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Data\\ApiSecurity.Data.csproj",
+        "packagesPath": "C:\\Users\\Martin Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martin Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Model\\ApiSecurity.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Model\\ApiSecurity.Model.csproj",
+        "projectName": "ApiSecurity.Model",
+        "projectPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Model\\ApiSecurity.Model.csproj",
+        "packagesPath": "C:\\Users\\Martin Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martin Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Service\\ApiSecurity.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Service\\ApiSecurity.Service.csproj",
+        "projectName": "ApiSecurity.Service",
+        "projectPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Service\\ApiSecurity.Service.csproj",
+        "packagesPath": "C:\\Users\\Martin Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martin Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Data\\ApiSecurity.Data.csproj": {
+                "projectPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Data\\ApiSecurity.Data.csproj"
+              },
+              "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Model\\ApiSecurity.Model.csproj": {
+                "projectPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Model\\ApiSecurity.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity\\ApiSecurity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity\\ApiSecurity.csproj",
+        "projectName": "ApiSecurity",
+        "projectPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity\\ApiSecurity.csproj",
+        "packagesPath": "C:\\Users\\Martin Ramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martin Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Model\\ApiSecurity.Model.csproj": {
+                "projectPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Model\\ApiSecurity.Model.csproj"
+              },
+              "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Service\\ApiSecurity.Service.csproj": {
+                "projectPath": "C:\\Users\\Martin Ramos\\Desktop\\ApiSecurity\\ApiSecurity\\ApiSecurity.Service\\ApiSecurity.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

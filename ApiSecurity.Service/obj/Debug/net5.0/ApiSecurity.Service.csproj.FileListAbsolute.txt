@@ -1,0 +1,17 @@
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\bin\Debug\net5.0\ApiSecurity.Service.deps.json
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\bin\Debug\net5.0\ApiSecurity.Service.dll
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\bin\Debug\net5.0\ref\ApiSecurity.Service.dll
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\bin\Debug\net5.0\ApiSecurity.Service.pdb
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\bin\Debug\net5.0\ApiSecurity.Data.dll
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\bin\Debug\net5.0\ApiSecurity.Model.dll
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\bin\Debug\net5.0\ApiSecurity.Data.pdb
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\bin\Debug\net5.0\ApiSecurity.Model.pdb
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ApiSecurity.Service.csproj.AssemblyReference.cache
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ApiSecurity.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ApiSecurity.Service.AssemblyInfoInputs.cache
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ApiSecurity.Service.AssemblyInfo.cs
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ApiSecurity.Service.csproj.CoreCompileInputs.cache
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ApiSecurity.Service.csproj.CopyComplete
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ApiSecurity.Service.dll
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ref\ApiSecurity.Service.dll
+C:\Users\Martin Ramos\Desktop\ApiSecurity\ApiSecurity\ApiSecurity.Service\obj\Debug\net5.0\ApiSecurity.Service.pdb
